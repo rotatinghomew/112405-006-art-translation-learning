@@ -1,0 +1,4 @@
+translation_id,passage_id,target_language,version,term,rendering,editor_state
+TR-1,P-1,en,v1,味道,taste,published
+TR-2,P-1,en,v2,味道,quality,draft
+TR-3,P-2,en,v1,写意,freehand,review

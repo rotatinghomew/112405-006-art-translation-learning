@@ -1,0 +1,4 @@
+task_id,translation_id,audience,experience,assigned_on,task_version
+R-1,TR-1,student,introductory,2026-05-01,q1
+R-2,TR-1,researcher,advanced,2026-05-01,q1
+R-3,TR-2,student,introductory,2026-06-01,q2

@@ -1,0 +1,4 @@
+response_id,task_id,responded_on,answer_code,confidence,review_state
+A-1,R-1,2026-05-04,contextual,high,coded
+A-2,R-2,2026-05-05,literal,medium,coded
+A-3,R-3,2026-06-02,contextual,low,pending
